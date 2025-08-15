@@ -1,3 +1,5 @@
+![Rupee Loom Banner](./banner.png)
+
 # Rupee Loom
 
 Rupee Loom is a modern expense tracker that helps you take control of your money without drowning in spreadsheets.  
