@@ -16,6 +16,9 @@ It’s designed to be simple, fast, and practical — giving you only what matte
 Most expense trackers throw endless charts and complex filters at you.  
 Rupee Loom focuses on **clarity and action**, so you actually *use* it every day — and see real progress in your savings.
 
+## 🚀 Live Demo
+[Click here to try Rupee Loom](https://rupee-loom.vercel.app/)
+
 ## 🛠 Getting Started
 
 ### Prerequisites
